@@ -1,0 +1,65 @@
+{
+    "en": {
+      "translation": {
+        "Clone now": "Clone now",
+        "Register": "Register",
+        "Enter name": "Enter name",
+        "Enter age": "Enter age",
+        "Save": "Save",
+        "Name": "Name",
+        "Age": "Age",
+        "Edit": "Edit",
+        "Webflow Design Agency": "Webflow Design Agency",
+        "A top-notch Webflow Design Agency": "A top-notch Webflow Design Agency",
+        "Get started": "Get started",
+        "Learn more": "Learn more",
+        "Copyright": "Copyright",
+        "BRIX Templates": "BRIX Templates",
+        "All Rights Reserved": "All Rights Reserved",
+        "Enter your email": "Enter your email",
+        "Subscribe": "Subscribe"
+      }
+    },
+    "uz": {
+      "translation": {
+        "Clone now": "Hozir klonlash",
+        "Register": "Roʻyxatdan oʻtish",
+        "Enter name": "Ismni kiriting",
+        "Enter age": "Yoshni kiriting",
+        "Save": "Saqlash",
+        "Name": "Ism",
+        "Age": "Yosh",
+        "Edit": "Tahrirlash",
+        "Webflow Design Agency": "Webflow dizayn agentligi",
+        "A top-notch Webflow Design Agency": "Yuqori darajadagi Webflow dizayn agentligi",
+        "Get started": "Boshlash",
+        "Learn more": "Batafsil ma'lumot",
+        "Copyright": "Mualliflik huquqi",
+        "BRIX Templates": "BRIX shablonlar",
+        "All Rights Reserved": "Barcha huquqlar himoyalangan",
+        "Enter your email": "Emailni kiriting", 
+        "Subscribe": "Obuna boʻling"
+      }
+    },
+    "ru": {
+      "translation": {
+        "Clone now": "Клонировать сейчас",
+        "Register": "Зарегистрироваться",
+        "Enter name": "Введите имя",
+        "Enter age": "Введите возраст",
+        "Save": "Сохранять",
+        "Name": "Имя",
+        "Age": "Возраст",
+        "Edit": "Редактировать",
+        "Webflow Design Agency": "Агентство дизайна Webflow",
+        "A top-notch Webflow Design Agency": "Первоклассное агентство дизайна Webflow",
+        "Get started": "Начать",
+        "Learn more": "Узнать больше",
+        "Copyright": "Авторские права",
+        "BRIX Templates": "Шаблоны БРИКС",
+        "All Rights Reserved": "Все права защищены",
+        "Enter your email": "Введите свой адрес электронной почты",
+        "Subscribe": "Подписаться"
+      }
+    }
+}
